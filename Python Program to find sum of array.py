@@ -6,3 +6,4 @@ for i in range(n):
     a=int(input())
     arr.append(a)
     print("Sum: ",sum(arr))
+ 
