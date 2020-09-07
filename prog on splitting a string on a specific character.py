@@ -1,2 +1,2 @@
-sen=str(input("Enter the sentence: "))
+sen=str(input("Enter the sentence: ")) 
 print(sen.split(' '))
