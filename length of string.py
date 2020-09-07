@@ -1,2 +1,2 @@
-String=str(input("Enter string: ")) 
+String=str(input("Enter string: "))  
 print(len(String)) 
