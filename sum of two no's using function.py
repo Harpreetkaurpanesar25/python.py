@@ -1,4 +1,4 @@
-def sum(a,b):
+def sum(a,b ):
     s=a+b  
     return s
 a=int(input()) 
